@@ -1,3 +1,3 @@
 # New-repo
 This is my first repository
-Author- Sidra Muneer
+Author- Sidra Munir
